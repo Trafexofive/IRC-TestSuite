@@ -1,8 +1,8 @@
-# Enhanced IRC Server Test Suite
+# IRC Server Test Suite
 
 ## Overview
 
-The Enhanced IRC Server Test Suite is a comprehensive testing framework designed to validate the functionality and reliability of IRC (Internet Relay Chat) servers. This test suite provides a robust set of tools and utilities to automate the testing process, ensuring that your IRC server behaves as expected under various conditions.
+The Enhanced IRC Server Test Suite is a comprehensive testing framework designed to validate the functionality and reliability of IRC (Internet Relay Chat) servers. This test suite provides a robust set of tools and utilities to automate the testing process, ensuring that your IRC server behaves as expected under various conditions. Honestly it's just an *over-glorified* bash script.
 
 ## Features
 
